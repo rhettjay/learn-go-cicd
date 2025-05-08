@@ -1,3 +1,4 @@
+Badge: 
 ![<alt-text-here>](https://github.com/dpack1/learn-go-cicd/actions/workflows/ci.yaml/badge.svg)
 # Deployment Pipeline flow
 ```mermaid
