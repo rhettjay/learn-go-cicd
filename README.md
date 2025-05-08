@@ -1,4 +1,4 @@
-![<alt-text-here>](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![<alt-text-here>](https://github.com/SecretJuice/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 # Deployment Pipeline flow
 ```mermaid
 ---
